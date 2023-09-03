@@ -69,7 +69,7 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 </p>
 ┌──┤ BADGES ├─────────▰▰▰ 
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/tarzacol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarzacol&stroke=84cc16&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=84cc16&currStreakLabel=14b8a6&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<p align="center"><a href="http://www.github.com/tarzacol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarzacol&stroke=84cc16&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=84cc16&currStreakLabel=14b8a6&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
 <a href="https://github.com/tarzacol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarzacol&langs_count=10&title_color=14b8a6&text_color=84cc16&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
