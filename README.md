@@ -28,11 +28,10 @@
 ├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 │
 └───────────────────────────────▰▰▰
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mr robot
-================================================================================================================================
 
-Software Engineering and Cybersecurity
---------------------------------------
+                                                           Software Engineering and Cybersecurity
+                ================================================================================================================================
+
 
 ive bee learning to coding for years after switching careers, i started with Cybersecurity
 
@@ -40,13 +39,6 @@ ive bee learning to coding for years after switching careers, i started with Cyb
 * ✉️  You can contact me at [amintarzae@gmail.com](mailto:amintarzae@gmail.com)
 * 🧠  I'm learning a new framework for Devops
 * 🤝  I'm open to collaborating on Many cybersecurity tools and projects are open source
-
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 
 
 ┌──┤ SKILLS ├─────────▰▰▰
