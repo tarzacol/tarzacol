@@ -1,3 +1,36 @@
+
+</p>
+<p align="center">  
+<img src ="https://i.pinimg.com/originals/b8/a3/cd/b8a3cd1fad69ee87b4a843ca7769f49a.gif">
+</p>
+
+## root:~$ whoami
+>  Software engineer student at [1337](https://1337.ma/en/) \
+>  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
+
+
+<p align="center">
+<a /[![tarzacol's 42 stats](https://badge.mediaplus.ma/darkblue/tarzacol)](https://github.com/oakoudad/badge42)></a>
+</p>
+
+
+
+<pre>
+
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ I'm learning a new framework for Devops
+├─▣ Software Engineer Student at 1337 Khouribga
+├─▣ Software Engineer Student at alx 
+├─▣ From laayoune Morocco
+├ ✉️  You can contact me at [amintarzae@gmail.com](mailto:amintarzae@gmail.com)
+├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
+├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
+│
+└───────────────────────────────▰▰▰
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mr robot
 ================================================================================================================================
 
