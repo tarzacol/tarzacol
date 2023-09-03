@@ -1,33 +1,21 @@
-</p>
-<p align="center">  
-<img src ="https://i.pinimg.com/originals/b8/a3/cd/b8a3cd1fad69ee87b4a843ca7769f49a.gif">
-</p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mr robot
+================================================================================================================================
 
-## root:~$ whoami
->  Software engineer student at [1337](https://1337.ma/en/) \
->  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
+Software Engineering and Cybersecurity
+--------------------------------------
 
+ive bee learning to coding for years after switching careers, i started with Cybersecurity
 
-<p align="center">
-<a /[![tarzacol's 42 stats](https://badge.mediaplus.ma/darkblue/tarzacol)](https://github.com/oakoudad/badge42)></a>
-</p>
+* 🌍  I'm based in Morocco
+* ✉️  You can contact me at [amintarzae@gmail.com](mailto:amintarzae@gmail.com)
+* 🧠  I'm learning a new framework for Devops
+* 🤝  I'm open to collaborating on Many cybersecurity tools and projects are open source
 
-
-
-<pre>
-
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ I'm learning a new framework for Devops
-├─▣ Software Engineer Student at 1337 Khouribga
-├─▣ Software Engineer Student at alx 
-├─▣ From laayoune Morocco
-├ ✉️  You can contact me at [amintarzae@gmail.com](mailto:amintarzae@gmail.com)
-├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
-│
-└───────────────────────────────▰▰▰
-
+<a href="https://www.github.com/tarzacol" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tarzacol?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/amin_tarza" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/amin_tarza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/tarzacol" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/tarzacol?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
@@ -40,36 +28,3 @@
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/amintarza" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /> </picture> </a> <a href="https://www.codepen.io/marianab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/tarzacol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/mrbooot" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dribbble.com/mrboot" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/mtarzare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/tarzacol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://hashnode.com/@mrboot.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mtarezae" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amin-tarza-479a59286" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.polywork.com/mouhamedamin_tar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@amintarzae" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/amin-tarza" target="_blank" rel="
---------------
-
-
-<p align="center">
-	<a href="mailto:achraf.elkhnissi@icloud.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />
-	</a>
-	<span> * </span>
-    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
-    </a>
-    <span> * </span>
-    <a href="https://twitter.com/suprivada">
-        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
-    </a>
-    <span> * </span>
-    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
-        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
-    </a>
-
-</p>
-
----------------
-| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) |
-|:-:|:-:|
-
-<p align="center">
-	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=achrafelkhnissi&color=8c36db&style=flat&label=visitors" />
-	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/achrafelkhnissi?color=blueviolet" />
-	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/achrafelkhnissi?color=blueviolet" />
-</p>
-
----------------
