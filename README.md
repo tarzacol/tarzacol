@@ -22,21 +22,20 @@
 ├─▣ I'm learning a new framework for Devops
 ├─▣ Software Engineer Student at 1337 Khouribga
 ├─▣ Software Engineer Student at alx 
-├─▣ From laayoune Morocco
 ├ ✉️  You can contact me at [amintarzae@gmail.com](mailto:amintarzae@gmail.com)
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
 ├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 │
 └───────────────────────────────▰▰▰
 
-                                                           Software Engineering and Cybersecurity
-                ================================================================================================================================
+                                                        Software Engineering and Cybersecurity
+                             =====================================================================================
 
 
 ive bee learning to coding for years after switching careers, i started with Cybersecurity
 
-* 🌍  I'm based in Morocco
-* ✉️  You can contact me at [amintarzae@gmail.com](mailto:amintarzae@gmail.com)
+* 🌍   From laayoune Morocco
+* ✉️  You can contact me at (mailto:amintarzae@gmail.com)
 * 🧠  I'm learning a new framework for Devops
 * 🤝  I'm open to collaborating on Many cybersecurity tools and projects are open source
 
