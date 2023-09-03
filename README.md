@@ -7,9 +7,9 @@
 >  Software engineer student at [1337](https://1337.ma/en/) \
 >  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+
 <p align="center">
-<a href="https://github.com/tarzacol/badge42"><img src="https://badge.mediaplus.ma/black/tarzacol" alt="ael-khni's 42 stats" /></a>
+<a /[![tarzacol's 42 stats](https://badge.mediaplus.ma/darkblue/tarzacol)](https://github.com/oakoudad/badge42)></a>
 </p>
 
 
@@ -19,7 +19,8 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Software Engineer Student at 1337 Khouribga
-├─▣ From Tetouan Morocco
+├─▣ Software Engineer Student at alx 
+├─▣ From laayoune Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
 ├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 │
