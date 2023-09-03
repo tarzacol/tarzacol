@@ -27,9 +27,9 @@
 ├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 │
 └───────────────────────────────▰▰▰
-
-                                                        Software Engineering and Cybersecurity
-                             =====================================================================================
+	
+                                        Software Engineering and Cybersecurity
+                  =====================================================================================
 
 
 ive bee learning to coding for years after switching careers, i started with Cybersecurity
