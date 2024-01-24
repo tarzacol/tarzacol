@@ -28,7 +28,7 @@
 │
 └───────────────────────────────▰▰▰
 	
-                                        Software Engineering and Cybersecurity
+                                        Software Engineering and Cybersecurity 
                   =====================================================================================
 
 
